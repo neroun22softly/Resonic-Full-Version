@@ -238,4 +238,4 @@ This repository serves as the official landing page for Resonic. The software is
 **Get the most recent version of Resonic today!**
 
 ---
-**Last updated:** 2026-10-13 07:21:21 UTC
+**Last updated:** 2026-10-13 15:34:28 UTC
